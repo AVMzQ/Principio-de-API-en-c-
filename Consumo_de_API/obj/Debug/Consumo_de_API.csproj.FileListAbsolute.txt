@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\bin\Debug\Consumo_de_API.exe.config
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\bin\Debug\Consumo_de_API.exe
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\bin\Debug\Consumo_de_API.pdb
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.Form1.resources
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.Properties.Resources.resources
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.csproj.CopyComplete
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.exe
+C:\Users\angel\source\repos\Consumo_de_API\Consumo_de_API\obj\Debug\Consumo_de_API.pdb
